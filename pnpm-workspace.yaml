@@ -1,0 +1,7 @@
+pmOnFail: ignore
+
+onlyBuiltDependencies:
+  - esbuild
+
+allowBuilds:
+  esbuild: true
